@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="17px" viewBox="0 0 24 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DC56E8DA-7DA4-4F48-80E9-CF9354633515</title>
+    <g id="FE-Assignments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE1" transform="translate(-27.000000, -390.000000)" stroke="#FFFFFF" stroke-width="1.06">
+            <g id="Tabs" transform="translate(20.000000, 101.000000)">
+                <g id="Dark-Mode" transform="translate(10.000000, 286.000000)">
+                    <g id="team" transform="translate(0.000000, 4.000000)">
+                        <rect id="Rectangle" x="3.6" y="1.44" width="10.8" height="13.68" rx="5.4"></rect>
+                        <path d="M5.58112466,3.01796674 C4.79965288,3.49141028 4.32,4.35425161 4.32,5.28658753 C4.32,6.7409863 5.46715306,7.92 6.88223869,7.92 L11.0939513,7.92 C11.9859831,7.92 12.8150263,7.44744896 13.2873859,6.66970942 C14.0435736,5.42464712 13.6745448,3.78528314 12.463137,3.00808752 C10.1260789,1.50871526 7.91579495,1.60354006 5.58112466,3.01796674 Z" id="Rectangle"></path>
+                        <line x1="9" y1="6.92" x2="9" y2="14.84" id="Path-20"></line>
+                        <line x1="11.52" y1="0" x2="14.4" y2="2.16" id="Path-20" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.960000, 1.080000) scale(-1, 1) translate(-12.960000, -1.080000) "></line>
+                        <line x1="3.6" y1="0" x2="5.76" y2="2.16" id="Path-20" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <g id="Group-9" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.400000, 4.504834)">
+                            <g id="Group-8">
+                                <line x1="0" y1="3.59516592" x2="2.88" y2="3.59516592" id="Path-21"></line>
+                                <polyline id="Path-21" points="3.06 3.41516592 3.06 1.92728578 3.06 0.53516592"></polyline>
+                            </g>
+                            <g id="Group-8" transform="translate(1.800000, 6.840000) scale(-1, 1) rotate(-180.000000) translate(-1.800000, -6.840000) translate(-0.000000, 5.040000)">
+                                <line x1="0" y1="2.70483408" x2="2.88" y2="2.70483408" id="Path-21"></line>
+                                <polyline id="Path-21" points="3.06 2.34483408 3.06 1.22892398 3.06 0.18483408"></polyline>
+                            </g>
+                        </g>
+                        <g id="Group-9" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.440000, 8.824834) scale(-1, 1) translate(-1.440000, -8.824834) translate(0.000000, 4.504834)">
+                            <g id="Group-8">
+                                <line x1="0" y1="3.59516592" x2="2.88" y2="3.59516592" id="Path-21"></line>
+                                <polyline id="Path-21" points="2.52 3.41516592 2.52 1.92728578 2.52 0.53516592"></polyline>
+                            </g>
+                            <g id="Group-8" transform="translate(1.440000, 6.840000) scale(-1, 1) rotate(-180.000000) translate(-1.440000, -6.840000) translate(0.000000, 5.040000)">
+                                <line x1="0" y1="2.70483408" x2="2.88" y2="2.70483408" id="Path-21"></line>
+                                <polyline id="Path-21" points="2.52 2.34483408 2.52 1.22892398 2.52 0.18483408"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

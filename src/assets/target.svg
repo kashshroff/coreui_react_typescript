@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E1D73FA0-E646-4B99-8A58-080E9816EF82</title>
+    <g id="FE-Assignments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE1" transform="translate(-29.000000, -478.000000)" stroke="#FFFFFF" stroke-width="1.06">
+            <g id="Tabs" transform="translate(20.000000, 101.000000)">
+                <g id="Projects" transform="translate(11.000000, 376.000000)">
+                    <g id="Target" transform="translate(0.000000, 3.000000)">
+                        <ellipse id="Oval" cx="8" cy="8.5" rx="6" ry="6.5"></ellipse>
+                        <g id="Group-17" stroke-linecap="round" transform="translate(0.000000, 8.000000)">
+                            <line x1="13.2093023" y1="0.255319149" x2="16" y2="0.255319149" id="Path-41"></line>
+                            <line x1="-1.98290996e-13" y1="0.255319149" x2="2.79069767" y2="0.255319149" id="Path-41"></line>
+                        </g>
+                        <g id="Group-17" stroke-linecap="round" transform="translate(7.670213, 8.833333) rotate(90.000000) translate(-7.670213, -8.833333) translate(-0.829787, 8.333333)">
+                            <line x1="13.5526749" y1="0.255319149" x2="16.3378601" y2="0.255319149" id="Path-41"></line>
+                            <line x1="0.174074074" y1="0.255319149" x2="2.95925926" y2="0.255319149" id="Path-41"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

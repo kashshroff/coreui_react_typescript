@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E19258EE-D60A-4B0E-91CF-2A6F1F5B0BB8</title>
+    <g id="FE-Assignments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="FE1" transform="translate(-31.000000, -433.000000)" stroke="#FFFFFF" stroke-width="1.0625">
+            <g id="Tabs" transform="translate(20.000000, 101.000000)">
+                <g id="Schedule" transform="translate(11.000000, 331.000000)">
+                    <g id="briefcase" transform="translate(0.000000, 2.000000)">
+                        <rect id="Rectangle" x="0.53125" y="3.54166667" width="15.9375" height="11.6875" rx="1.0625"></rect>
+                        <line x1="3.71875" y1="7.26041667" x2="13.28125" y2="7.26041667" id="Path"></line>
+                        <line x1="3.71875" y1="11.5104167" x2="13.28125" y2="11.5104167" id="Path"></line>
+                        <path d="M10.86725,1.08020833 C10.7224693,0.646535251 10.3164938,0.354107332 9.85929167,0.354166658 L7.14070833,0.354166658 C6.68350621,0.354107332 6.27753067,0.646535251 6.13275,1.08020833 L5.3125,3.54166667 L11.6875,3.54166667 L10.86725,1.08020833 Z" id="Path"></path>
+                        <line x1="2.65625" y1="3.54166667" x2="2.65625" y2="2.47916667" id="Path"></line>
+                        <line x1="14.34375" y1="3.54166667" x2="14.34375" y2="2.47916667" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

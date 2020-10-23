@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6753FF3E-98C6-44BA-9607-C8D0E5A411FA</title>
+    <g id="FE-Assignments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FE1b" transform="translate(-219.000000, -29.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="close" transform="translate(213.000000, 23.000000)">
+                <g id="Multipy" transform="translate(13.500000, 13.653719) rotate(45.000000) translate(-13.500000, -13.653719) translate(4.000000, 4.153719)">
+                    <rect id="Rectangle" x="0" y="8.2173913" width="18.7826087" height="2.34782609" rx="1.17391304"></rect>
+                    <path d="M1.17391304,8.2173913 L17.6086957,8.2173913 C18.2570299,8.2173913 18.7826087,8.74297008 18.7826087,9.39130435 C18.7826087,10.0396386 18.2570299,10.5652174 17.6086957,10.5652174 L1.17391304,10.5652174 C0.525578772,10.5652174 2.99324067e-12,10.0396386 2.99316127e-12,9.39130435 C2.99308188e-12,8.74297008 0.525578772,8.2173913 1.17391304,8.2173913 Z" id="Rectangle" transform="translate(9.391304, 9.391304) rotate(90.000000) translate(-9.391304, -9.391304) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
